@@ -1,0 +1,8 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="59b88dd4-d8a1-40c1-9e8d-8cf817b42b0e" ml:package="com.company.productname" ml:version_code="1" ml:version_name="">
+  <application ml:sdk_version="1.0" ml:visible_name="Hello Cube">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="Hello Cube">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>

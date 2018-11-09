@@ -1,0 +1,30 @@
+[
+ {
+  "dest": "bin/libc++_shared.so",
+  "src": "C:/Users/intern/MagicLeap/mlsdk/v0.17.0/lumin/stl/libc++/lib/libc++_shared.so"
+ },
+ {
+  "dest": "bin/libil2cpp.so",
+  "src": "G:/Central Files/Communications/Business Intelligence/Prahasi Kacham Intern 2018/Magic Leap Projects/Hello Cube/Temp/StagingArea/Data/Native/libil2cpp.so"
+ },
+ {
+  "dest": "bin/UnityEngine.SpatialTracking.dll",
+  "src": "G:/Central Files/Communications/Business Intelligence/Prahasi Kacham Intern 2018/Magic Leap Projects/Hello Cube/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+ },
+ {
+  "dest": "bin/UnityEngine.TestRunner.dll",
+  "src": "G:/Central Files/Communications/Business Intelligence/Prahasi Kacham Intern 2018/Magic Leap Projects/Hello Cube/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+ },
+ {
+  "dest": "bin/UnityMagicLeap.so",
+  "src": "G:/Central Files/Communications/Business Intelligence/Prahasi Kacham Intern 2018/Magic Leap Projects/Hello Cube/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so"
+ },
+ {
+  "dest": "bin/nunit.framework.dll",
+  "src": "G:/Central Files/Communications/Business Intelligence/Prahasi Kacham Intern 2018/Magic Leap Projects/Hello Cube/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+ },
+ {
+  "dest": "bin/Player.elf",
+  "src": "G:/Central Files/Communications/Business Intelligence/Prahasi Kacham Intern 2018/Magic Leap Projects/Hello Cube/Temp/StagingArea/Player.elf"
+ }
+]
